@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hourhand {
+  background-color: antiquewhite;
+  font-size: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(228, 225, 225, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.hourhand:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(228, 225, 225, 0.3);
+}
+
+.mintuehand {
+  background-color: antiquewhite;
+  font-size: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(228, 225, 225, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.mintuehand:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(228, 225, 225, 0.3);
+}
+
+.secondhand {
+  background-color: antiquewhite;
+  font-size: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(228, 225, 225, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.secondhand:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12pxrgba(228, 225, 225, 0.3);
+}
+
+
